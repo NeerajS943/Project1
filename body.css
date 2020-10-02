@@ -8,7 +8,7 @@ p{
   color: rgb(0, 0, 3);
   margin-right: 150px;
   margin-left: 80px;
-  font-style: oblique;
+  font-style: times;
   font-weight: bold;
   font-size: 18px;
 }
@@ -63,4 +63,4 @@ p{
     display: inline-block;
     font-size: 16px;
     margin-right: 50px;
-  }
+
