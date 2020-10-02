@@ -27,8 +27,8 @@ p{
 
   }
   body {
-    background-image: url('tricolour_indian_flag_hd_5k.jpg');
+    background-image: url('indianflag.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% 100%;
   }
